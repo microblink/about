@@ -6,6 +6,8 @@ Microblink is a mobile vision software development company. Here are some of our
 
 ## https://github.com/BlinkID
 
+[![Join the chat at https://gitter.im/microblink/about](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/microblink/about?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 BlinkIDscan SDK and demo app. ID card, passport and driver license scanner. No internet connection needed (works offline).
 
 ## https://github.com/BlinkOCR

@@ -17,3 +17,7 @@ BlinkOCR SDK - mobile OCR for documents.
 BlinkBarcode SDK and demo app (formerly known as PDF417.mobi).
 High performance scanning of dense 1D & 2D barcodes with strong PDF417 support. 
 
+## https://github.com/PhotoPay
+
+PhotoPay SDK - for scanning payment slips, ID scanning, and other banking applications.
+

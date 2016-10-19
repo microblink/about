@@ -8,9 +8,9 @@ Microblink is a mobile vision software development company. Here are some of our
 
 BlinkIDscan SDK and demo app. ID card, passport and driver license scanner. No internet connection needed (works offline).
 
-## https://github.com/BlinkOCR
+## https://github.com/blinkinput
 
-BlinkOCR SDK - mobile OCR for documents.
+blinkinput SDK - mobile OCR for unstructured data.
 
 ## https://github.com/PDF417
 

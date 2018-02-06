@@ -9,7 +9,7 @@ Microblink is a mobile vision software development company. Here are code reposi
 BlinkID enables scanning of over 100 international identity documents including driving licenses, national identity cards, passports and others. Information is extracted either with OCR of the MRZ (machine-readable zone) or plain text from the documents; or by scanning a barcode. The SDK is available for integration in native and cross-platform environments.
 
 
-## https://github.com/blinkinput
+## https://github.com/BlinkInput
 
 BlinkInput is a various data scanner and enables scanning of predefined structured information such as VIN, license plate, TOP UP codes, IBAN, payment data (amount, reference, account number), coupon numbers etc. The SDK is available for native Android and iOS platforms.
 

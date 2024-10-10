@@ -2,25 +2,22 @@
   <img src="https://raw.githubusercontent.com/microblink/about/master/microblink-logo.png" alt="microblink.com" title="microblink.com">
 </p>
 
-Microblink is a mobile vision software development company. Here are code repositories of our products.
+Founded in 2013, <a href="http://www.microblink.com">Microblink</a> has rapidly ascended to global leadership in proprietary AI solutions for document scanning and verification. We're processing over 3 billion identity and payment cards annually. 
+
+Our products, BlinkID, BlinkCard, and BlinkID Verify, help businesses streamline customer onboarding workflows and reduce fraud. Trusted by customers worldwide, Microblink provides scanning of payment cards and IDs tailored to various sectors, including government, banking, finance, gaming, travel, hospitality and cryptocurrency, which is pivotal in enhancing customer experience, security and compliance.
+
+Below are the code repositories and documentation overview of our products.
 
 ## https://github.com/BlinkID
 
-BlinkID enables scanning of over 100 international identity documents including driving licenses, national identity cards, passports and others. Information is extracted either with OCR of the MRZ (machine-readable zone) or plain text from the documents; or by scanning a barcode. The SDK is available for integration in native and cross-platform environments.
+BlinkID enables fast and easy scanning and extraction of data from ID cards, passports, driver's licenses, health cards and more in any mobile or web app. With BlinkID, businesses can onboard more customers, check in more guests faster and smoothly confirm buyers' ages by capturing and retrieving data from various identity documents. BlinkID scans the visual inspection zone (VIZ), barcode, and MRZ and, if necessary, performs data matching. 
 
+## https://github.com/blinkcard
+BlinkCard enables fast, easy scanning of all types of payment cards, regardless of the issuer layout or design (embossed, indented, engraved, or printed). With BlinkCard, businesses can increase conversions on payment, onboarding, or loyalty forms, enhance transaction protection, and reduce chargebacks. BlinkCard scans both sides of the card and can mask specific data (in results and images). 
 
-## https://github.com/BlinkInput
+## https://blinkidverify.docs.microblink.com/docs/category/introduction
+BlinkID Verify is an API for checking whether identity documents are genuine. It performs various document liveness, fraud, and image quality checks on static images of various identity documents. The documentation provides an overview of key features and integration. BlinkID Verify performs better if combined with BlinkID for capturing and extracting an ID's data. 
 
-BlinkInput is a various data scanner and enables scanning of predefined structured information such as VIN, license plate, TOP UP codes, IBAN, payment data (amount, reference, account number), coupon numbers etc. The SDK is available for native Android and iOS platforms.
+## https://docs.microblink.com/ 
+The link leads to an overview of all our products and their platform availability. 
 
-## https://github.com/PDF417
-
-PDF417 SDK or WEB API enables scanning and parsing 1D and 2D barcodes such as QR, PDF417, and others. For standardized barcodes such as SEPA payment barcode, PDF417 also features parsing. 
-
-## https://github.com/PhotoPay
-
-PhotoPay SDK captures payment information from standardized and non-standard payment slips and it's often used in mobile banking apps. For scanning unstructured invoices field-by-field scanning feature is available. PhotoPay also features barcode scanning with built-in parsing logic for most of the standard payment barcodes, including SEPA QR standard.
-
-## https://github.com/BlinkReceipt
-
-BlinkReceipt SDK captures raw OCR data or structured information from retail receipts. BlinkReceipt enables item-level data capture from retail receipts. 

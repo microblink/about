@@ -8,7 +8,7 @@ Microblink's proprietary machine learning tech is the backbone of today’s iden
 
 Below are the code repositories and documentation overview of our products.
 
-## <a href="https://microblink.com/products/platform</a>
+## <a href="https://microblink.com/products/platform">Microblink Platform</a>
 The Microblink Platform is an all-in-one KYC solution including industry-leading identity document verification, biometric checks, watchlist/sanctions screening, PII data matching and fraud signals.
 No solution can catch 100% of fraud while also accepting 100% of good users. The balance of false acceptance rate with the rate of false rejections should be in your control, based on how your business balances growth ambitions versus fraud risk. The Microblink Platform lets you customize the decision threshold for each verification check in a few clicks. Gain insight into what determined the verification result, and optimize the calibration for your unique customer base and business requirements.
 

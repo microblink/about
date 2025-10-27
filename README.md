@@ -18,7 +18,7 @@ BlinkCard enables fast, easy scanning of all types of payment cards, regardless 
 ## <a href="https://blinkidverify.docs.microblink.com/">Identity document verification: BlinkID Verify</a>
 BlinkID Verify is an API for checking whether identity documents are genuine. It performs various document liveness, fraud, and image quality checks on static images of various identity documents. The documentation provides an overview of key features and integration. BlinkID Verify performs better if combined with BlinkID for capturing and extracting an ID's data.
 
-## <a href="https://github.com/Identity document scanning and OCR: BlinkID">BlinkID</a>
+## <a href="https://github.com/BlinkID">Identity document scanning and OCR: BlinkID</a>
 
 BlinkID enables fast and easy scanning and extraction of data from ID cards, passports, driver's licenses, health cards and more in any mobile or web app. With BlinkID, businesses can onboard more customers, check in more guests faster and smoothly confirm buyers' ages by capturing and retrieving data from various identity documents. BlinkID scans the visual inspection zone (VIZ), barcode, and MRZ and, if necessary, performs data matching. 
 
